@@ -14,11 +14,15 @@ input[type="checkbox"] {
 }
 
 
+/* Adjust the size of small images */
 .small-img {
-    height: 80px;
-    width: 80px;
-    filter: grayscale(30%); /*  grayscale filter  */
+    max-height: 80px; /* Set maximum height */
+    max-width: 80px; /* Set maximum width */
+    width: auto; /* Allow images to adjust width proportionally */
+    height: auto; /* Allow images to adjust height proportionally */
+    filter: grayscale(30%); /* Apply grayscale filter */
 }
+
 
 /* Remove grayscale filter for important items 
 .small-img.important {
