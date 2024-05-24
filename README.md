@@ -27,14 +27,8 @@ I am a passionate and detail-oriented software engineer with over 5 years of exp
 - Google Professional Data Engineer
 
 ## Contact Me
-- **Email:** johndoe@example.com
-- **LinkedIn:** [John Doe](https://www.linkedin.com/in/johndoe/)
-- **Twitter:** [@johndoe](https://twitter.com/johndoe)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautamhirawat&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautamhirawat&show_icons=true&theme=radical)
-![GitHub Activity Game](https://github.com/users/Gautamhirawat/contributions)
-![GitHub Contribution Graph](https://github.com/users/Gautamhirawat/contributions)
+- **Email:** code.gautamhirawat@gmail.com
+- **LinkedIn:** [John Doe](https://www.linkedin.com/in/Gautamhirawat/)
 
 
 
