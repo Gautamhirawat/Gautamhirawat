@@ -58,6 +58,28 @@ I am a passionate and detail-oriented software engineer with over 5 years of exp
 2. **Image Classification with CNN**
    - Trained a convolutional neural network (CNN) model to classify images using TensorFlow and Keras.
    - Achieved high accuracy on the CIFAR-10 dataset through data augmentation and transfer learning.
+  
+     
+## My Trending Repos 💻
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=LEARN_EVERY_WEEK&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/LEARN_EVERY_WEEK)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=PYTHON-Projects&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/PYTHON-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-Projects&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=PYTHON-LEARN&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/PYTHON-LEARN)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-language&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-language)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Cpp-LEARN&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Cpp-LEARN)
+
+<img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+## Spotify Playing 🎧
+
+
+
+[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+
+
 
 
 
@@ -75,12 +97,7 @@ I am a passionate and detail-oriented software engineer with over 5 years of exp
 
 </details>
 
-## My Github Activity ⚡
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [Gautamhirawat/styler](https://github.com/r)
-
-<!--END_SECTION:activity-->
 
 
 
