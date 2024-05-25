@@ -3,50 +3,51 @@
 
 
 ```
-               [
-                  {
-                  "id" : 1,
-                  "Name": "Gautam Hirawat",
-                  "Pronouns":  "He | Him",
-                  "Hobbies": ["Gaming", "Listening music", "Reading new genere Novel"],
-                  "IDE": ["Vs Code", "Android Studio"],
-                  "Os": ["Ubuntu" , "mint" , "windows11"],
-                  "Current focus": "leetcode",
-                  "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
-                  "Moto": "You can do it by practicing it again",
-                  "connect with me": {
-                          "telegram": "https://t.ms/Gautamhirawat",
-                          "email": "code.gautamhirawat@gmail.com",
-                          "linkedin": "https://www.linkedin.com/in/gautamhirawat", 
-                                  }
-                  }
-               ]
-
-
+[
+ {
+  "id" : 1,
+  "Name": "Gautam Hirawat",
+  "Pronouns":  "He | Him",
+  "Hobbies / Love": ["music", "Novel"],
+  "IDE": ["Vs Code", "Android Studio"],
+  "Os":  ["Ubuntu" , "mint" , "windows11"],
+  "Current focus": "leetcode",
+  "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
+  "Moto": "You can do it by practicing it again",
+  "connect with me": {
+  "telegram": "https://t.ms/Gautamhirawat",
+  "email": "code.gautamhirawat@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/gautamhirawat",
+  }
+ }
+]
 ```
-
-
-
-
-
-
-
-
 
 
 ## 👨‍💻 &nbsp;Talking to Computers Using :
 
 ### &nbsp;- Languages
 
-<img src = '' height='40'/>&nbsp;<img src = '' height='40'/>&nbsp;<img src = '' height='40'/>&nbsp; <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/css3-original.svg' width='40'/>&nbsp;
+<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/python-original.svg' height='40'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/java-original.svg' height='40'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/html5-original.svg' height='40'/>&nbsp; <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/css3-original.svg' width='40'/>&nbsp;
+<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/rust-original.svg' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/logo-aws-small.png" alt="opencv" width="50" height="50"/> 
+<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/django-plain-wordmark.svg' height='50'/>&nbsp;
+<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/jupyter-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/vscode-original.svg' height='50'/>&nbsp;  <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/vim-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/anaconda-original.svg' height='50'/>&nbsp;
+<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/codepen-original.svg" alt="Codepen" width="40" height="40"/> 
+<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/ubuntu-original.svg" alt="ubuntu" width="50" height="50"/> 
+
+### &nbsp;- Plan to learn  
+
+
+<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/bootstrap-original.svg' height='50'/>&nbsp;
+<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/flutter-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/javascript-original.svg' height='50'/>&nbsp;  <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/numpy-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/nodejs-original.svg' height='50'/>&nbsp;
+<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/neovim-original.svg" alt="Neovim" width="40" height="40"/> 
+<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/pytorch-original.svg" alt="pytorch" width="50" height="50"/> 
+
+
 
 
 ## Projects 💻
@@ -58,11 +59,40 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-language&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-language)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Cpp-LEARN&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Cpp-LEARN)
 
+```
+@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  Any fool can write code that a       @@
+@@   ❮(|~o.o~|)❯     computer can understand.          @@
+@@   ❮/ \`-'/ \❯  Good programmers write code that     @@ 
+@@     _/`U'\_        humans can understand            @@                    
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    |       Martin Fowler        |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
+@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
+```
+
+
+
+
 <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/316pkmdg4ezqid57jernjlbsqh3a)
+
+
+
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 
@@ -82,10 +112,6 @@
 
 [![Tap to Reload](https://metrics.lecoq.io/Gautamhirawat?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Gautamhirawat)
 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamhirawat&theme=dark&hide_border=true" />
-</p>
 
 </details>
 
