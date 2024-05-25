@@ -2,61 +2,54 @@
 <img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/Readme_header.png" >
 
 
+```
+               [
+                  {
+                  "id" : 1,
+                  "Name": "Gautam Hirawat",
+                  "Pronouns":  "He | Him",
+                  "Hobbies": ["Gaming", "Listening music", "Reading new genere Novel"],
+                  "IDE": ["Vs Code", "Android Studio"],
+                  "Os": ["Ubuntu" , "mint" , "windows11"],
+                  "Current focus": "leetcode",
+                  "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
+                  "Moto": "You can do it by practicing it again",
+                  "connect with me": {
+                          "telegram": "https://t.ms/Gautamhirawat",
+                          "email": "code.gautamhirawat@gmail.com",
+                          "linkedin": "https://www.linkedin.com/in/gautamhirawat", 
+                                  }
+                  }
+               ]
+
+
+```
 
 
 
 
 
-## Experience
-### Software Engineer | ABC Tech Solutions (2018 - Present)
-- Led the development of several high-impact projects, including an AI-powered recommendation engine.
-- Collaborated with cross-functional teams to deliver solutions aligned with business objectives.
-
-### Freelance Developer (2016 - 2018)
-- Worked with clients to design and develop custom web applications tailored to their needs.
-- Delivered projects on time and within budget, earning positive feedback and referrals.
-
-## Education
-- Bachelor of Science in Computer Science, University of XYZ (2012 - 2016)
-
-## Certifications
-- AWS Certified Solutions Architect - Associate
-- Google Professional Data Engineer
-
-## Contact Me
-- **Email:** code.gautamhirawat@gmail.com
-- **LinkedIn:** [John Doe](https://www.linkedin.com/in/Gautamhirawat/)
 
 
 
-## Skills
 
 
+## 👨‍💻 &nbsp;Talking to Computers Using :
 
-## Projects
-### Web Development
-1. **E-commerce Platform**
-   - A full-stack e-commerce platform built with React.js, Node.js, and MongoDB.
-   - Features include product listing, shopping cart, checkout, and user authentication.
-   - Utilized Redux for state management and styled-components for styling.
+### &nbsp;- Languages
 
-2. **Social Media App**
-   - A social media application inspired by Twitter, built with Vue.js and Firebase.
-   - Allows users to create posts, follow other users, and engage with content through likes and comments.
-   - Implemented real-time updates using Firestore.
+<img src = '' height='40'/>&nbsp;<img src = '' height='40'/>&nbsp;<img src = '' height='40'/>&nbsp; <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/css3-original.svg' width='40'/>&nbsp;
 
-### Data Science & Machine Learning
-1. **Predictive Analytics Dashboard**
-   - Developed a dashboard for visualizing predictive analytics models using Plotly and Dash.
-   - Integrated machine learning models to forecast sales and customer behavior.
-   - Deployed the dashboard on Heroku for easy access.
+### &nbsp;- Libraries, Frameworks, Tools  
 
-2. **Image Classification with CNN**
-   - Trained a convolutional neural network (CNN) model to classify images using TensorFlow and Keras.
-   - Achieved high accuracy on the CIFAR-10 dataset through data augmentation and transfer learning.
-  
-     
-## My Trending Repos 💻
+
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/logo-aws-small.png" alt="opencv" width="50" height="50"/> 
+
+
+## Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=LEARN_EVERY_WEEK&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/LEARN_EVERY_WEEK)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=PYTHON-Projects&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/PYTHON-Projects)
@@ -68,8 +61,6 @@
 <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## Spotify Playing 🎧
-
-
 
 [![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/316pkmdg4ezqid57jernjlbsqh3a)
 
