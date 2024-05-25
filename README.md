@@ -52,12 +52,8 @@
 
 ## Projects 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=LEARN_EVERY_WEEK&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/LEARN_EVERY_WEEK)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=PYTHON-Projects&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/PYTHON-Projects)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-Projects&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-Projects)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=PYTHON-LEARN&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/PYTHON-LEARN)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-language&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-language)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Cpp-LEARN&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Cpp-LEARN)
+
+
 
 ```
 @@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
