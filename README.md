@@ -118,8 +118,7 @@ If done something good them show them as well:-(
 <details>
 <summary>Github stats</summary>
 
-[![Tap to Reload](https://metrics.lecoq.io/Gautamhirawat?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Gautamhirawat)
-
+[![Tap to Reload](https://metrics.lecoq.io/Gautamhirawat?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Gautamhirawat)[![trophy](https://github-profile-trophy.vercel.app/?username=Gautamhirawat&title=Commit,Repository,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
