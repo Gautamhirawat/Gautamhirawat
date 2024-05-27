@@ -13,7 +13,7 @@
   "Os":  ["Ubuntu" , "mint" , "windows11"],
   "Current focus": "leetcode",
   "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
-  "Moto": "You can do it by practicing it again",
+  "Moto": "You can do it by practicing it again and again and again",
   "connect with me": {
   "telegram": "https://t.ms/Gautamhirawat",
   "email": "code.gautamhirawat@gmail.com",
