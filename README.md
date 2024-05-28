@@ -13,6 +13,7 @@
   "Os":  ["Ubuntu" , "mint" , "windows11"],
   "Current focus": "leetcode",
   "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
+  "Currently Working" : "https://github.com/Gautamhirawat/Web-Devlopment/tree/main/Web_Sites/News_Websites",
   "Moto": "You can do it by practicing it again and again and again",
   "connect with me": {
   "telegram": "https://t.ms/Gautamhirawat",
@@ -57,6 +58,12 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-Projects&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Web-Devlopment&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Web-Devlopment)
 
+
+## Currently working on 💻
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Web-Devlopment&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Web-Devlopment)
+
+
+<p align="left"><a href="https://github.com/Gautamhirawat/Web-Devlopment/tree/main/Web_Sites/News_Websites"><img src="https://img.shields.io/static/v1?label&message=Know+More+about&color=45,fc00ff,00dbde&style=flat&logo" alt="Know more about" /></a></p>
 
 <!--
 If done something good them show them as well:-(
