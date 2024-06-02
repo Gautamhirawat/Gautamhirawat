@@ -1,5 +1,10 @@
+# Sliding Photos
 
-<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/Readme_header.png" >
+![Sliding Photos](./images/Header.gif)
+
+<!--<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/Readme_header.png">-->
+
+
 
 
 ```
