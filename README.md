@@ -1,4 +1,4 @@
-# Sliding Photos
+
 
 ![Sliding Photos](./images/Header.gif)
 
@@ -123,14 +123,6 @@ If done something good them show them as well:-(
 
 
 <img align="center" src="https://private-user-images.githubusercontent.com/124828880/241546216-5d4c6038-71f3-4a6a-92ac-8b0a3325d8fe.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY1NTI0MzQsIm5iZiI6MTcxNjU1MjEzNCwicGF0aCI6Ii8xMjQ4Mjg4ODAvMjQxNTQ2MjE2LTVkNGM2MDM4LTcxZjMtNGE2YS05MmFjLThiMGEzMzI1ZDhmZS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyNFQxMjAyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZDdiOTI0ZTg4ZGQ1N2M0ZDMzNjFhOWVjY2Y1ZGU1MmQyYzQ3OWI4OWJkZGYyM2IzZTUwZDc0ZjRhZDk2N2M2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VhjfGOLa6Khcr2LIZ3kL48c_k-eKj4caoUfY-6URVS0" alt="Just for Fun :D">
-
-
-
-
-
-
-
-
 
 
 <!--
