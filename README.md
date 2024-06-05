@@ -1,8 +1,13 @@
 
+<p align="center">
+  <img src="./images/Header.gif" alt="Sliding Photos" width="100%" height="70%">
+</p>
 
+
+<!--
 ![Sliding Photos](./images/Header.gif)
-
-<!--<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/Readme_header.png">-->
+<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/Readme_header.png">
+-->
 
 
 
