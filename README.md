@@ -59,8 +59,6 @@
 <img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/pytorch-original.svg" alt="pytorch" width="50" height="50"/> 
 
 
-
-
 ## Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=LEARN_EVERY_WEEK&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/LEARN_EVERY_WEEK)
@@ -81,7 +79,6 @@ If done something good them show them as well:-(
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=JAVA-language&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/JAVA-language)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Cpp-LEARN&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Cpp-LEARN)
  -->
-
 
 
 ```
@@ -108,7 +105,6 @@ If done something good them show them as well:-(
 
 
 
-
 <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
@@ -120,10 +116,6 @@ If done something good them show them as well:-(
 
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-
-
-
-
 
 
 
@@ -151,13 +143,7 @@ For Visit Count
 
 
 
-
-
-
-
 <img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/jaipur.jpg" width="100%" height="450">
-
-
 
 
 
