@@ -44,7 +44,6 @@
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
-
 <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/django-plain-wordmark.svg' height='50'/>&nbsp;
 <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/jupyter-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/vscode-original.svg' height='50'/>&nbsp;  <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/vim-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/anaconda-original.svg' height='50'/>&nbsp;
 <img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/codepen-original.svg" alt="Codepen" width="40" height="40"/> 
@@ -53,10 +52,15 @@
 ### &nbsp;- Plan to learn  
 
 
+
+
+
 <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/bootstrap-original.svg' height='50'/>&nbsp;
 <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/flutter-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/javascript-original.svg' height='50'/>&nbsp;  <img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/numpy-original.svg' height='50'/>&nbsp;<img src = 'https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/nodejs-original.svg' height='50'/>&nbsp;
 <img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/neovim-original.svg" alt="Neovim" width="40" height="40"/> 
 <img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/pytorch-original.svg" alt="pytorch" width="50" height="50"/> 
+
+
 
 
 ## Projects 💻
@@ -67,8 +71,10 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Web-Devlopment&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Web-Devlopment)
 
 
+
 ## Currently working on 💻
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Web-Devlopment&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Web-Devlopment)
+
 
 
 <p align="left"><a href="https://github.com/Gautamhirawat/Web-Devlopment/tree/main/Web_Sites/News_Websites"><img src="https://img.shields.io/static/v1?label&message=Know+More+about&color=45,fc00ff,00dbde&style=flat&logo" alt="Know more about" /></a></p>
