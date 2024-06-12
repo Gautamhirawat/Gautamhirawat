@@ -63,6 +63,9 @@
 
 
 
+<!-- 
+
+NOTE : Make seprate project don't make bundle 
 ## Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=LEARN_EVERY_WEEK&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/LEARN_EVERY_WEEK)
@@ -75,9 +78,9 @@
 ## Currently working on 💻
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Gautamhirawat&repo=Web-Devlopment&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Gautamhirawat/Web-Devlopment)
 
-
-
 <p align="left"><a href="https://github.com/Gautamhirawat/Web-Devlopment/tree/main/Web_Sites/News_Websites"><img src="https://img.shields.io/static/v1?label&message=Know+More+about&color=45,fc00ff,00dbde&style=flat&logo" alt="Know more about" /></a></p>
+
+-->
 
 <!--
 If done something good them show them as well:-(
