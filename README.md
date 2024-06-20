@@ -23,7 +23,7 @@
   "Os":  ["Ubuntu" , "mint" , "windows11"],
   "Current focus": "leetcode",
   "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
-  "Currently Working" : "https://github.com/Gautamhirawat/Web-Devlopment/tree/main/Web_Sites/News_Websites",
+  "Currently Working" : "https://github.com/Gautamhirawat/CODSOFT",
   "Moto": "You can do it by practicing it again and again and again",
   "connect with me": {
   "telegram": "https://t.ms/Gautamhirawat",
