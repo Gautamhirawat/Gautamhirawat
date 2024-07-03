@@ -1,7 +1,10 @@
+<br>
 
-<p align="center">
-  <img src="./images/Header.gif" alt="Sliding Photos" width="100%" height="70%">
-</p>
+# Hi, I'm Gautam 👋🏾 
+
+<div align=center>
+  <img src="/images/banner.png" alt="Sliding Photos" width="600" height="200">
+</div>
 
 
 <!--
@@ -21,7 +24,7 @@
   "Hobbies / Love": ["music", "Novel"],
   "IDE": ["Vs Code", "Android Studio"],
   "Os":  ["Ubuntu" , "mint" , "windows11"],
-  "Current focus": "leetcode",
+  "Current focus": "Web-Devlopment",
   "Plan to learn": ["Javascript", "NodeJs", "Flutter"],
   "Currently Working" : "https://github.com/Gautamhirawat/CODSOFT",
   "Moto": "You can do it by practicing it again and again and again",
@@ -162,9 +165,75 @@ For Visit Count
 
 -->
 
+<!-- 
+<div display = inline-block>
+<div align = left><img src="Rajasthan_tourism_Incredible_India-removebg.png" width="184px" height="204.25px"> </div>
+<div align = center>
+<img src="Rajasthan_tourism_Incredible_India-removebg.png" width="184px" height="204.25px">
+</div>
+
+<div align = right><img src="Rajasthan_tourism_Incredible_India-removebg.png" width="184px" height="204.25px"></div>
+</div> -->
 
 
-<img src="https://github.com/Gautamhirawat/Gautamhirawat/blob/main/images/jaipur.jpg" width="100%" height="450">
+
+
+
+
+<!-- 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
+  <div></div>
+  <div><img src="Rajasthan_tourism_Incredible_India-removebg.png" width="184px" height="204.25px"></div>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div>
+        <a href="https://www.linkedin.com/in/gautamhirawat/" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 128 128">
+            <path fill="#0076b2" d="M116 3H12a8.91 8.91 0 0 0-9 8.8v104.42a8.91 8.91 0 0 0 9 8.78h104a8.93 8.93 0 0 0 9-8.81V11.77A8.93 8.93 0 0 0 116 3"/>
+            <path fill="#fff" d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 1 1-10.5 10.49a10.5 10.5 0 0 1 10.5-10.49m20.41 29h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z"/>
+        </svg>
+        </a>
+    </div>
+    <div>
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+        <path fill="#888888" d="M12 7a5 5 0 1 1-4.995 5.217L7 12l.005-.217A5 5 0 0 1 12 7"/>
+      </svg>
+    </div>
+    <div>
+        <a href="mailto:code.gautamhirawat@gmail.com" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="42.45" height="32" viewBox="0 0 256 193">
+            <path fill="#4285F4" d="M58.182 192.05V93.14L27.507 65.077L0 49.504v125.091c0 9.658 7.825 17.455 17.455 17.455z"/>
+            <path fill="#34A853" d="M197.818 192.05h40.727c9.659 0 17.455-7.826 17.455-17.455V49.505l-31.156 17.837l-27.026 25.798z"/>
+            <path fill="#EA4335" d="m58.182 93.14l-4.174-38.647l4.174-36.989L128 69.868l69.818-52.364l4.669 34.992l-4.669 40.644L128 145.504z"/>
+            <path fill="#FBBC04" d="M197.818 17.504V93.14L256 49.504V26.231c0-21.585-24.64-33.89-41.89-20.945z"/>
+            <path fill="#C5221F" d="m0 49.504l26.759 20.07L58.182 93.14V17.504L41.89 5.286C24.61-7.66 0 4.646 0 26.23z"/>
+        </svg>
+        </a>
+    </div>
+    <div>
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+        <path fill="#888888" d="M12 7a5 5 0 1 1-4.995 5.217L7 12l.005-.217A5 5 0 0 1 12 7"/>
+      </svg>
+    </div>
+    <div>
+    <a href="https://t.me/Gautamhirawat" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 256">
+        <defs>
+          <linearGradient id="logosTelegram0" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#2AABEE"/>
+            <stop offset="100%" stop-color="#229ED9"/>
+          </linearGradient>
+        </defs>
+        <path fill="url(#logosTelegram0)" d="M128 0C94.06 0 61.48 13.494 37.5 37.49A128.038 128.038 0 0 0 0 128c0 33.934 13.5 66.514 37.5 90.51C61.48 242.506 94.06 256 128 256s66.52-13.494 90.5-37.49c24-23.996 37.5-56.576 37.5-90.51c0-33.934-13.5-66.514-37.5-90.51C194.52 13.494 161.94 0 128 0"/>
+        <path fill="#FFF" d="M57.94 126.648c37.32-16.256 62.2-26.974 74.64-32.152c35.56-14.786 42.94-17.354 47.76-17.441c1.06-.017 3.42.245 4.96 1.49c1.28 1.05 1.64 2.47 1.82 3.467c.16.996.38 3.266.2 5.038c-1.92 20.24-10.26 69.356-14.5 92.026c-1.78 9.592-5.32 12.808-8.74 13.122c-7.44.684-13.08-4.912-20.28-9.63c-11.26-7.386-17.62-11.982-28.56-19.188c-12.64-8.328-4.44-12.906 2.76-20.386c1.88-1.958 34.64-31.748 35.26-34.45c.08-.338.16-1.598-.6-2.262c-.74-.666-1.84-.438-2.64-.258c-1.14.256-19.12 12.152-54 35.686c-5.1 3.508-9.72 5.218-13.88 5.128c-4.56-.098-13.36-2.584-19.9-4.708c-8-2.606-14.38-3.984-13.82-8.41c.28-2.304 3.46-4.662 9.52-7.072"/>
+      </svg>
+      </a>
+    </div>
+  </div>
+</div> -->
+
+
+
+
 
 
 
