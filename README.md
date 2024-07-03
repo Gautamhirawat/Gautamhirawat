@@ -3,7 +3,7 @@
 # Hi, I'm Gautam 👋🏾 
 
 <div align=center>
-  <img src="/images/banner.png" alt="Sliding Photos" width="600" height="200">
+  <img src="/images/banner2.png" alt="Sliding Photos" width="600" height="200">
 </div>
 
 
